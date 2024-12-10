@@ -1,7 +1,7 @@
 
 # David Smith's Portfolio
 
-I am a computer engineering major at CSUF.
+Hi! My name is David Smith, I am a computer engineering major at CSUF.
 
 My GitHub page is https://github.com/dsmith806.
 
