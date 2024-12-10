@@ -3,7 +3,6 @@
 
 I am a computer engineering major at CSUF.
 
-## Computer Science Projects
 My GitHub page is https://github.com/dsmith806.
 
 ## Favorite CPSC 120L Labs
